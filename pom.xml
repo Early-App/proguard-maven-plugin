@@ -8,8 +8,8 @@
 		<cctimestamp>NO_TIMESTAMP</cctimestamp>
 		<scm.revision>NO_SCM_REVISION</scm.revision>
 
-		<version.proguard>7.2.2</version.proguard>
-		<version.proguard-core>9.0.3</version.proguard-core>
+		<version.proguard>7.3.2</version.proguard>
+		<version.proguard-core>9.0.8</version.proguard-core>
 	</properties>
 
 
@@ -212,7 +212,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-project-info-reports-plugin</artifactId>
-				<version>3.4.3</version>
+				<version>3.4.1</version>
 				<reportSets>
 					<reportSet>
 						<reports>
